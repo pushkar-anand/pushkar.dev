@@ -21,3 +21,5 @@ pushkar.dev
 
 # IDE directory
 .idea/
+
+.env
